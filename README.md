@@ -7,6 +7,11 @@ Instalación de un Sistema Operativo en la Raspberry
 1. [Introducción](https://github.com/kikelopser/proyecto/blob/main/INTRODUCCION.md)
 2. [¿Que es una raspberry?](https://github.com/kikelopser/proyecto/blob/main/RASPBERRY.md)
 3. [Instalación](https://github.com/kikelopser/proyecto/blob/main/INSTALACION.md)
-4. [Conclusión]()
+4. [Conclusión](https://github.com/kikelopser/proyecto/blob/main/CONCLUSIONES.md)
+
+## REFERENCIAS:
+[Página oficial de Raspberry](https://www.raspberrypi.org)
+
+[Información sobre la Instalación](https://geekland.eu/instalar-raspbian-con-raspberry-pi-imager)
 
 ## Enrique López Serrano
