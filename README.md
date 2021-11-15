@@ -11,7 +11,9 @@ Instalación de un Sistema Operativo en la Raspberry
 
 ## REFERENCIAS:
 [Página oficial de Raspberry](https://www.raspberrypi.org)
-
 [Información sobre la Instalación](https://geekland.eu/instalar-raspbian-con-raspberry-pi-imager)
+
+## LICENCIA:
+[Licencia](https://github.com/kikelopser/proyecto/blob/main/imagenes/licencia.png)
 
 ## Enrique López Serrano
