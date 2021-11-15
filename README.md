@@ -1,5 +1,4 @@
-# PROYECTO:
-Raspberry
+# PROYECTO: Raspberry
 
 ## DESCRIPCIÓN:
 Instalación de un Sistema Operativo en la Raspberry
