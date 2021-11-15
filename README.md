@@ -5,7 +5,7 @@ Raspberry
 Instalación de un Sistema Operativo en la Raspberry
 
 ## INDICE:
-1.- [Introducción](https://github.com/kikelopser/proyecto/blob/main/INTRODUCCION.md)
-3.- [¿Que es una raspberry?](https://github.com/kikelopser/proyecto/blob/main/RASPBERRY.md)
-2.- [Instalación](https://github.com/kikelopser/proyecto/blob/main/INSTALACION.md)
-3.- Conclusión
+# 1.- [Introducción](https://github.com/kikelopser/proyecto/blob/main/INTRODUCCION.md)
+# 2.- [¿Que es una raspberry?](https://github.com/kikelopser/proyecto/blob/main/RASPBERRY.md)
+# 3.- [Instalación](https://github.com/kikelopser/proyecto/blob/main/INSTALACION.md)
+# 4.- Conclusión
