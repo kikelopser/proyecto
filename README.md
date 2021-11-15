@@ -10,8 +10,8 @@ Instalación de un Sistema Operativo en la Raspberry
 4. [Conclusión](https://github.com/kikelopser/proyecto/blob/main/CONCLUSIONES.md)
 
 ## REFERENCIAS:
-[Página oficial de Raspberry](https://www.raspberrypi.org)
-[Información sobre la Instalación](https://geekland.eu/instalar-raspbian-con-raspberry-pi-imager)
+1. [Página oficial de Raspberry](https://www.raspberrypi.org)
+2. [Información sobre la Instalación](https://geekland.eu/instalar-raspbian-con-raspberry-pi-imager)
 
 ## LICENCIA:
 [Licencia](https://github.com/kikelopser/proyecto/blob/main/imagenes/licencia.png)
